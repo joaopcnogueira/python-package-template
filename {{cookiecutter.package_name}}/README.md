@@ -5,4 +5,4 @@
 
 **Author**: {{cookiecutter.author_name}}
 
-**Email**:: {{cookiecutter.author_email}}
+**Email**: {{cookiecutter.author_email}}
