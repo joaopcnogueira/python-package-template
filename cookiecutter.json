@@ -1,0 +1,7 @@
+{
+    "package_description": "lorem ipsum",
+    "package_name": "default-package",
+    "author_name": "anonymous",
+    "author_email": "anonymous@email.com",
+    "python_version": "3.7"
+}
