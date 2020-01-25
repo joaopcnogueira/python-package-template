@@ -21,5 +21,5 @@ setuptools.setup(
     install_requires=[
         "pandas >= 0.25.3"
     ],
-    python_requires='{{cookiecutter.python_version}}',
+    python_requires="{{cookiecutter.python_version}}",
 ) 
